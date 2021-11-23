@@ -1,0 +1,28 @@
+ a img{
+    width:40px;
+    height: 40px;
+}
+h1{
+        text-align: center;
+}
+body{font-family:Verdana ;background-image :url(fondf.jpg);
+background-size: cover;
+background-repeat: no repeat;
+color: whitesmoke;
+background-attachment: fixed;
+    
+    }
+p{
+    font-size: 1em;
+    line-height: 2 em; 
+}
+.interet img{
+    width: 100px;
+    height: 100px;
+    border: 3px solid rgb(1, 2, 2);
+    border-radius: 50%;
+
+}
+.lol{
+    text-align: center;
+}
